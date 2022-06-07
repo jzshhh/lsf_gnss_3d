@@ -7,7 +7,7 @@ lsf_gnss_3d is designed for extracting postseismic displacement form GNSS 3D pos
 When implementing this software, readers need to prepare some relevant files:
 
 GNSS data file (.pos). The GNSS position time series at each station are saved in a single file (.pos) and all of them are placed in the folder (pbo/).
-Offset data file (‘_break.neu’). The offset data files are saved in ‘_break.neu’ for each station and readers need to manually make these files. Different formats indicate different types of breakpoints, including instrumental offsets (e.g., 2011.37808219178 9999.99999999999 0 0), seismic offsets (e.g., 2011.37808219178 9999.99999999999 0 1), rate changes (e.g., 2011.37808219178 9999.99999999999 1 0), exponential postseismic term (e.g., 2011.37808219178 60 2 0) and logarithmic postseismic term (e.g., 2011.37808219178 9999.99999999999 60 1), note that the number 60 is relaxation time for postseismic deformation.
+Offset data file (‘_break.neu’). The offset data files are saved in ‘_break.neu’ for each station and readers need to manually make these files. Different formats indicate different types of breakpoints, including instrumental offsets (e.g., 2011.37808219178 9999.99999999999 0 0), seismic offsets (e.g., 2011.37808219178 9999.99999999999 0 1), rate changes (e.g., 2011.37808219178 9999.99999999999 1 0), exponential postseismic term (e.g., 2011.37808219178 60 2 0) and logarithmic postseismic term (e.g., 2011.37808219178  60 2 1), note that the number 60 is relaxation time for postseismic deformation.
 
 # To acknowledge use of this software, please cite some of following publications
 Herring, T. (2003). MATLAB Tools for viewing GPS velocities and time series. GPS Solutions, 7, 194–199. doi: 10.1007/s10291-003-0068-0
