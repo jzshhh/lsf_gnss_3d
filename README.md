@@ -1,7 +1,7 @@
 # lsf_gnss_3d
 
 # Attribution
-lsf_gnss_3d is designed for extracting postseismic displacement form GNSS vertical position time series analysis based on the least squares fitting method. It is a modified version of Tsview software (http://www-gpsg.mit.edu/~tah/GGMatlab/#_tsview) (Herring, 2003)) and is suitable for batch processing of GNSS time series.
+lsf_gnss_3d is designed for extracting postseismic displacement form GNSS 3D position time series based on the least squares fitting method. It is a modified version of Tsview software (http://www-gpsg.mit.edu/~tah/GGMatlab/#_tsview) (Herring, 2003)) and is suitable for batch processing of GNSS time series.
 
 # Preparing some relevant files
 When implementing this software, readers need to prepare some relevant files:
