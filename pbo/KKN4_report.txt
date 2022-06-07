@@ -1,0 +1,63 @@
+Detrend of .\pbo\KKN4 North 
+North WRMS:    2.18 mm     NRMS:  3.65     #:  3135 of  3182 data
+North T =  2011.6549 Postion            532.24 +-   0.48 mm   
+North Rate                               32.96 +-   0.06 mm/yr
+North Period   1.00 Cos                   0.66 +-   0.06 mm   
+North Period   1.00 Sin                   1.64 +-   0.06 mm   
+North Period   1.00 amplitude             1.77 +-   0.06 mm   
+North Period   1.00 phase                0.060 +-  0.005 year   
+North Period   0.50 Cos                  -0.56 +-   0.06 mm   
+North Period   0.50 Sin                  -0.39 +-   0.06 mm   
+North Period   0.50 amplitude             0.68 +-   0.06 mm   
+North Period   0.50 phase                0.153 +-  0.013 year   
+North Break  2007.2329                  -0.21 +-   0.27 mm
+North Break  2010.9973                  -0.25 +-   0.19 mm
+North Br EQ  2004.9836                   -0.64 +-   0.32 mm
+North Br EQ  2011.7123                    0.75 +-   0.22 mm
+North Br EQ  2012.2760                   -3.79 +-   0.20 mm
+North Br EQ  2015.3123                -1838.79 +-   0.54 mm
+North Br EQ  2015.3589                   -0.62 +-   0.60 mm
+North Log    2015.3123 Tau 67.0         -9.05 +-   0.20 mm
+ 
+Detrend of .\pbo\KKN4 East 
+East WRMS:    2.02 mm     NRMS:  3.29     #:  3135 of  3182 data
+East T =  2011.6549 Postion            117.83 +-   0.45 mm   
+East Rate                               36.94 +-   0.06 mm/yr
+East Period   1.00 Cos                  -0.42 +-   0.05 mm   
+East Period   1.00 Sin                  -0.04 +-   0.05 mm   
+East Period   1.00 amplitude             0.42 +-   0.05 mm   
+East Period   1.00 phase                0.236 +-  0.020 year   
+East Period   0.50 Cos                   0.56 +-   0.05 mm   
+East Period   0.50 Sin                   0.03 +-   0.05 mm   
+East Period   0.50 amplitude             0.56 +-   0.05 mm   
+East Period   0.50 phase                0.241 +-  0.015 year   
+East Break  2007.2329                   2.53 +-   0.25 mm
+East Break  2010.9973                   0.01 +-   0.18 mm
+East Br EQ  2004.9836                   -0.59 +-   0.27 mm
+East Br EQ  2011.7123                   -0.53 +-   0.20 mm
+East Br EQ  2012.2760                    0.13 +-   0.18 mm
+East Br EQ  2015.3123                 -447.72 +-   0.55 mm
+East Br EQ  2015.3589                   -1.33 +-   0.60 mm
+East Log    2015.3123 Tau 67.0         -2.64 +-   0.19 mm
+ 
+Detrend of .\pbo\KKN4 Up 
+Up WRMS:    6.32 mm     NRMS:  2.58     #:  3135 of  3182 data
+Up T =  2011.6549 Postion            226.38 +-   1.39 mm   
+Up Rate                                1.36 +-   0.17 mm/yr
+Up Period   1.00 Cos                  -3.77 +-   0.17 mm   
+Up Period   1.00 Sin                   8.67 +-   0.17 mm   
+Up Period   1.00 amplitude             9.45 +-   0.17 mm   
+Up Period   1.00 phase               -0.065 +-  0.003 year   
+Up Period   0.50 Cos                   2.20 +-   0.16 mm   
+Up Period   0.50 Sin                  -1.68 +-   0.17 mm   
+Up Period   0.50 amplitude             2.77 +-   0.16 mm   
+Up Period   0.50 phase               -0.146 +-  0.010 year   
+Up Break  2007.2329                   5.71 +-   0.77 mm
+Up Break  2010.9973                  -0.84 +-   0.55 mm
+Up Br EQ  2004.9836                   -2.53 +-   0.90 mm
+Up Br EQ  2011.7123                   -3.00 +-   0.62 mm
+Up Br EQ  2012.2760                   -0.65 +-   0.56 mm
+Up Br EQ  2015.3123                 1258.85 +-   1.65 mm
+Up Br EQ  2015.3589                  -11.08 +-   1.83 mm
+Up Log    2015.3123 Tau 67.0         -4.89 +-   0.61 mm
+ 

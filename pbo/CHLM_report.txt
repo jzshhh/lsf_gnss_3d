@@ -1,0 +1,66 @@
+Detrend of .\pbo\CHLM North 
+North WRMS:    1.82 mm     NRMS:  3.07     #:  3414 of  3447 data
+North T =  2011.3164 Postion            323.47 +-   0.41 mm   
+North Rate                               27.09 +-   0.05 mm/yr
+North Period   1.00 Cos                  -0.26 +-   0.05 mm   
+North Period   1.00 Sin                   3.10 +-   0.05 mm   
+North Period   1.00 amplitude             3.11 +-   0.05 mm   
+North Period   1.00 phase               -0.013 +-  0.002 year   
+North Period   0.50 Cos                  -0.26 +-   0.04 mm   
+North Period   0.50 Sin                  -0.70 +-   0.04 mm   
+North Period   0.50 amplitude             0.75 +-   0.04 mm   
+North Period   0.50 phase                0.056 +-  0.009 year   
+North Break  2007.1808                  -0.19 +-   0.23 mm
+North Break  2012.8962                   0.14 +-   0.16 mm
+North Br EQ  2004.9836                   -1.82 +-   0.30 mm
+North Br EQ  2008.6475                    0.69 +-   0.24 mm
+North Br EQ  2011.7123                   -0.13 +-   0.16 mm
+North Br EQ  2012.2760                   -3.09 +-   0.17 mm
+North Br EQ  2015.3123                -1407.61 +-   0.42 mm
+North Br EQ  2015.3589                   -6.26 +-   0.46 mm
+North Log    2015.3123 Tau 67.0        -31.21 +-   0.14 mm
+ 
+Detrend of .\pbo\CHLM East 
+East WRMS:    2.02 mm     NRMS:  3.54     #:  3414 of  3447 data
+East T =  2011.3164 Postion            471.74 +-   0.45 mm   
+East Rate                               37.23 +-   0.05 mm/yr
+East Period   1.00 Cos                  -2.20 +-   0.05 mm   
+East Period   1.00 Sin                  -0.68 +-   0.05 mm   
+East Period   1.00 amplitude             2.31 +-   0.05 mm   
+East Period   1.00 phase                0.202 +-  0.004 year   
+East Period   0.50 Cos                   0.64 +-   0.05 mm   
+East Period   0.50 Sin                   0.12 +-   0.05 mm   
+East Period   0.50 amplitude             0.65 +-   0.05 mm   
+East Period   0.50 phase                0.220 +-  0.012 year   
+East Break  2007.1808                  -1.22 +-   0.84 mm
+East Break  2012.8962                   0.50 +-   0.18 mm
+East Br EQ  2004.9836                   -0.34 +-   0.31 mm
+East Br EQ  2008.6475                    1.78 +-   0.84 mm
+East Br EQ  2011.7123                   -1.31 +-   0.18 mm
+East Br EQ  2012.2760                    0.48 +-   0.19 mm
+East Br EQ  2015.3123                 -225.31 +-   0.47 mm
+East Br EQ  2015.3589                   -0.07 +-   0.51 mm
+East Log    2015.3123 Tau 67.0        -11.89 +-   0.15 mm
+ 
+Detrend of .\pbo\CHLM Up 
+Up WRMS:    5.81 mm     NRMS:  2.69     #:  3414 of  3447 data
+Up T =  2011.3164 Postion             81.66 +-   1.33 mm   
+Up Rate                                3.58 +-   0.16 mm/yr
+Up Period   1.00 Cos                   1.03 +-   0.15 mm   
+Up Period   1.00 Sin                   9.40 +-   0.15 mm   
+Up Period   1.00 amplitude             9.46 +-   0.15 mm   
+Up Period   1.00 phase                0.017 +-  0.003 year   
+Up Period   0.50 Cos                   1.49 +-   0.14 mm   
+Up Period   0.50 Sin                  -3.12 +-   0.14 mm   
+Up Period   0.50 amplitude             3.46 +-   0.14 mm   
+Up Period   0.50 phase               -0.071 +-  0.007 year   
+Up Break  2007.1808                   2.01 +-   0.76 mm
+Up Break  2012.8962                  -0.12 +-   0.51 mm
+Up Br EQ  2004.9836                   -0.84 +-   0.96 mm
+Up Br EQ  2008.6475                    3.58 +-   0.79 mm
+Up Br EQ  2011.7123                    1.45 +-   0.51 mm
+Up Br EQ  2012.2760                   -1.87 +-   0.54 mm
+Up Br EQ  2015.3123                 -578.60 +-   1.33 mm
+Up Br EQ  2015.3589                   -4.25 +-   1.45 mm
+Up Log    2015.3123 Tau 67.0         10.93 +-   0.44 mm
+ 
